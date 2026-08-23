@@ -1,0 +1,6 @@
+{
+  "name": "Realtime Budget & Financiën",
+  "description": "Realtime financieel dashboard met automatische bankkoppeling, maandbegrotingen, koppelregels, spaardoelen en cashflow analyse gebaseerd op het gezinsbudget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
